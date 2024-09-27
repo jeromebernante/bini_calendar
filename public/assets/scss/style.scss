@@ -1,0 +1,14 @@
+$primary: #7ACAD2;
+.bg-transparent {
+  background-color: transparent;
+}
+.bg-image {
+  background-image: url('../../assets/img/bini_bg.png'); 
+  background-size: cover;
+  background-position: center; 
+  height: 100vh; 
+  color: white;
+}
+
+
+@import '../../vendor/twbs/bootstrap/scss/bootstrap';
